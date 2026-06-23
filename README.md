@@ -1,11 +1,13 @@
-# 🌍 Multilingual Language Translator
+<p align="center">
+  <h1 align="center">🌍 Multilingual Language Translator</h1>
+</p>
 
 <p align="center">
   <b>Translate text seamlessly across multiple languages with a modern AI-powered desktop interface.</b>
 </p>
 
 <p align="center">
-  Built using Python, CustomTkinter, and Deep Translator.
+  Built using Python • CustomTkinter • Deep Translator
 </p>
 
 ---
